@@ -15,7 +15,7 @@
 
     </td>
     <td>
-      <img src="https://cdn-icons-png.flaticon.com/512/5231/5231019.png" alt="Female Web Developer" width="200"/>
+     <img src="https://cdn-icons-png.flaticon.com/512/4140/4140047.png" alt="Female Web Developer" width="200"/>
     </td>
   </tr>
 </table>
