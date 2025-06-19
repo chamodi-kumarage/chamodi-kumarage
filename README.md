@@ -64,7 +64,7 @@
 
 ### 📈 GitHub Activity Graph
 
-[![Chamodi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chamodi-kumarage&theme=tokyonight)](https://git.io/praveenscience)
+[![Chamodi's GitHub Activity Graph](https://activity-graph.vercel.app/graph?username=chamodi-kumarage&theme=tokyonight)](https://git.io/praveenscience)
 
 ---
 
@@ -75,4 +75,3 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamodi-kumarage&theme=tokyonight) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=chamodi-kumarage&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ---
-
