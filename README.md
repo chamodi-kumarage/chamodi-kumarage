@@ -2,6 +2,7 @@
 <h3 align="center">An undergraduate student passionate about building web applications and learning data science.</h3>
 
 ---
+
 <table>
   <tr>
     <td>
@@ -18,8 +19,6 @@
     </td>
   </tr>
 </table>
-
-
 
 ---
 
@@ -63,8 +62,17 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📈 GitHub Activity Graph
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chamodi-kumarage&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+[![Chamodi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chamodi-kumarage&theme=tokyonight)](https://git.io/praveenscience)
+
+---
+
+### 📊 GitHub Stats
+
+| ![Chamodi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamodi-kumarage&show_icons=true&theme=tokyonight) | ![Chamodi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chamodi-kumarage&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamodi-kumarage&theme=tokyonight) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=chamodi-kumarage&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+---
+
