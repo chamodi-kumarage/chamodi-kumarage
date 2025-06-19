@@ -2,12 +2,24 @@
 <h3 align="center">An undergraduate student passionate about building web applications and learning data science.</h3>
 
 ---
+<table>
+  <tr>
+    <td>
 
 - 🎓 I’m currently studying at **Sri Lanka Institute of Information Technology (SLIIT)**, pursuing a **BSc (Hons) in IT (Specializing in Data Science)**  
 - 🔭 I’m currently working on: **Online Video Downloading System**  
 - 🌱 I’m learning: **Python and Data Analysis**  
 - 💬 Ask me about: **Web Development, OOP Concepts**  
 - 📫 Reach me at: **chamodikumarage2003@gmail.com**
+
+    </td>
+    <td>
+      <img src="https://cdn-icons-png.flaticon.com/512/5231/5231019.png" alt="Female Web Developer" width="200"/>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
